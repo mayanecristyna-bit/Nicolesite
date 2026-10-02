@@ -6,7 +6,7 @@
 
 body.inicio{
     font-family: Arial, sans-serif;
-    background-image: url('img/fundoindex.png');
+    background-image: url('imgsite/fundoindex.png');
     background-size: cover;
 background-attachment: fixed;
 background-repeat: no-repeat;
@@ -19,7 +19,7 @@ min-height: 100vh;
 }
 
 body.pag {
-   background-image: url('img/fundoindex.png');
+   background-image: url('imgsite/fundoindex.png');
 }
 
 
