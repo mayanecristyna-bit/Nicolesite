@@ -157,15 +157,15 @@ footer {
 
 @media screen and (max-width: 768px){
     
-    .container p{
-        font-size: 30px;
+    .container{
+     width: 300px; 
     }
 
-    .container2 p{
-        font-size: 30px;
-    }
+    .container2{
+    width: 300px;   
+}
 
     .container3 p{
-        font-size: 30px;
+     width: 300px; 
     }
 }
