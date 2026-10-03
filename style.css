@@ -8,6 +8,10 @@ body.inicio{
     font-family: Arial, sans-serif;
     background-image: url('imgsite/fundoindex.png');
     background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
+
 
 display: flex;
 flex-direction: column;
@@ -67,6 +71,7 @@ padding: 40px 20px;
 .musicas {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
 }
 
 .card {
@@ -148,6 +153,15 @@ footer {
     color: white;
     padding: 20px;
     text-align: center;
-    position: fixed;
 }
 
+@media screen and (max-width: 768px){
+    
+    .container{
+     width: 300px; 
+    }
+
+    .container2{
+    width: 300px;   
+}
+}
