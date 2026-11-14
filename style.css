@@ -7,7 +7,7 @@
 body {
   font-family: Arial, sans-serif;
   color: #241d2d;
-  background-image: url(fundoindex.png);
+  background-image: url('imgsite/fundoindex.png');
     background-size: cover;
 background-attachment: fixed;
 background-repeat: no-repeat;
