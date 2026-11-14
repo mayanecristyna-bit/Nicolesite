@@ -7,7 +7,11 @@
 body {
   font-family: Arial, sans-serif;
   color: #241d2d;
-  background: #eee9f2;
+  background-image: url(fundoindex.png);
+    background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center;
   line-height: 1.6;
 }
 
